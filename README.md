@@ -1,11 +1,15 @@
 ## Hi there 👋
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 [blue-green]: https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
 [blue-green_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Tesla-Sec&repo=github-readme-stats&cache_seconds=86400&theme=blue-green
 
 ![blue-green][blue-green] ![blue-green][blue-green_repo]
 
+<div style="display: inline_block"><br>
 
+         <i class="devicon-docker-plain-wordmark colored"></i>
+          
+<div>
 <div> 
   <a href="https://ringzer0ctf.com/profile/51253" target="_blank"><img src="https://ringzer0ctf.com/images/logo.png" height="30" target="_blank"></a>
   <a href="https://discord.com/users/393929773740457987" target="_blank"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6257d23c5fb25be7e0b6e220_Open%20Source%20Projects%20_%20Discord-7.svg" height="30" target="_blank"></a> 
