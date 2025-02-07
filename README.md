@@ -2,7 +2,7 @@
 
 [blue-green]: https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
 
-| `📈My Stats`|
+| `📈My Stats`||
 | :--: | :-: |
 |![blue-green][blue-green] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tesla-Sec&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) | ![CatMemeCatsLoveGIF](https://github.com/user-attachments/assets/6b0932f8-6cea-4a0b-a8df-44045118943e) |
 
