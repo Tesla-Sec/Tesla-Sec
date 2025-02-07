@@ -38,6 +38,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/raspberrypi/raspberrypi-line.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/putty/putty-original.svg">
+  <img align="center" height="30" width="40" src="https://vuldb.com/_thm/vuldb.png">
 </div>
 
 ## 📔Languages
