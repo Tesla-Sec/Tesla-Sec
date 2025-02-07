@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
-
+</div>
 <br>
 <div> 
   <a href="https://ringzer0ctf.com/profile/51253" target="_blank"><img src="https://ringzer0ctf.com/images/logo.png" height="30" target="_blank"></a>
