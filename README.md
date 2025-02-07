@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[blue-green]: https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=22600&t&theme=blue-green
+[blue-green]: https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&cache_seconds=22600&t&theme=blue-green
 
 | `📈My Stats`||
 | :--: | :--: |
