@@ -9,8 +9,6 @@
 
 
 ##⚒️My favorite tools
-![HackHackerGIF (2)](https://github.com/user-attachments/assets/59d15d94-ba27-4128-be68-eb7a497baa2a)
-![HackHackerGIF](https://github.com/user-attachments/assets/9816e7bb-8f3c-4f20-bf2e-68eb59678825)
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://blackarch.org/images/logo/ba-logo.png">
@@ -43,17 +41,5 @@
   <a href="https://www.linkedin.com/in/nicolas-herculano" target="_blank"><img src="https://images.ctfassets.net/h6ufgtwb6nv1/5lHIgLTzfLWN0rHbv4SlVZ/f6463b137d7b1c156c641b090393e04b/LinkedIn_logo_initials.png" height="30" target="_blank"></a> 
   
 </div>
-<!--
-**Tesla-Sec/Tesla-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HackermanGIF](https://github.com/user-attachments/assets/f835f6b6-6467-4c94-b948-e73bdfdc3419)
+##Thanks!!!
