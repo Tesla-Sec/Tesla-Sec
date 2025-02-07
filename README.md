@@ -6,8 +6,8 @@
 | `My Stats`| `My Repo Stats`| 
 | :--: | :--: |
 |![blue-green][blue-green]|![blue-green][blue-green_repo]|
+⚒️My favorite tools
 <div style="display: inline_block">
-  `My favorite tools`
   <img align="center" height="30" width="40" src="https://blackarch.org/images/logo/ba-logo.png">
   <img align="center" height="30" width="40" src="https://www.kali.org/images/kali-logo.svg">
   <img align="center" height="30" width="40" src="https://www.kali.org/images/tool-logo-sqlmap.svg">
@@ -18,7 +18,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ssh/ssh-original-wordmark.svg">
 </div>
-<br>
+
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg">
