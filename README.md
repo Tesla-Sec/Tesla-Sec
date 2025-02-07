@@ -16,7 +16,7 @@
   <img align="center" height="30" width="40" src="https://www.kali.org/images/tool-logo-sqlmap.svg">
   <img align="center" height="30" width="40" src="https://www.kali.org/images/tool-logo-metasploit.svg">
   <img align="center" height="30" width="40" src="https://www.kali.org/images/tool-logo-nmap.svg">
-  <img align="center" height="30" width="40" src="https://www.kali.org/images/tool-logo-burp.svg">
+  <img align="center" height="30" width="80" src="https://www.kali.org/images/tool-logo-burp.svg">
   <img align="center" height="30" width="40" src="https://www.kali.org/images/tool-logo-wireshark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ssh/ssh-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg">
