@@ -1,11 +1,11 @@
 ## Hi there 👋
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 [blue-green]: https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
 [blue-green_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Tesla-Sec&repo=github-readme-stats&cache_seconds=86400&theme=blue-green
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ![blue-green][blue-green] ![blue-green][blue-green_repo]
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
             <i class="devicon-docker-plain-wordmark colored"></i>
 <div>
 <div> 
