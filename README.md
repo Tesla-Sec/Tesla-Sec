@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[blue-green]: https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&cache_seconds=21600&layout=default&theme=blue-green
+[blue-green]: https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&cache_seconds=22600&t&theme=blue-green
 
 | `📈My Stats`||
 | :--: | :-: |
