@@ -5,7 +5,7 @@
 
 | `📈My Stats`| `📊My Repo Stats`| 
 | :--: | :--: |
-|![blue-green][blue-green]|![blue-green][blue-green_repo]|
+|![blue-green][blue-green]|![CatMemeCatsLoveGIF](https://github.com/user-attachments/assets/6b0932f8-6cea-4a0b-a8df-44045118943e)|
 
 
 ## ⚒️My favorite tools
@@ -59,7 +59,7 @@
   
 </div>
 
-## Thanks!!!
-![CatMemeCatsLoveGIF](https://github.com/user-attachments/assets/6b0932f8-6cea-4a0b-a8df-44045118943e)
+Thanks!!!
+
 
 
