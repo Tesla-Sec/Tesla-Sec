@@ -6,9 +6,7 @@
 ![blue-green][blue-green] ![blue-green][blue-green_repo]
 
 <div style="display: inline_block"><br>
-
-         <i class="devicon-docker-plain-wordmark colored"></i>
-          
+            <i class="devicon-docker-plain-wordmark colored"></i>
 <div>
 <div> 
   <a href="https://ringzer0ctf.com/profile/51253" target="_blank"><img src="https://ringzer0ctf.com/images/logo.png" height="30" target="_blank"></a>
