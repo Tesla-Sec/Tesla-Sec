@@ -1,7 +1,7 @@
 ## Hi there 👋
+<div style="display: inline_block">
 [blue-green]: https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
 [blue-green_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Tesla-Sec&repo=github-readme-stats&cache_seconds=86400&theme=blue-green
-<div style="display: inline_block">
 ![blue-green][blue-green] ![blue-green][blue-green_repo]
 </div>
 <div style="display: inline_block">
