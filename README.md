@@ -7,6 +7,13 @@
 | :--: | :--: |
 |![blue-green][blue-green] ![blue-green][blue-green]|![CatMemeCatsLoveGIF](https://github.com/user-attachments/assets/6b0932f8-6cea-4a0b-a8df-44045118943e)|
 
+<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Tesla-Sec" />
+
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&locale=en" />
+
+<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Tesla-Sec&" />
+
+<img align="left" src="https://komarev.com/ghpvc/?username=Tesla-Sec&label=Profile%20views&color=0e75b6&style=flat" />
 
 ## ⚒️My favorite tools
 
