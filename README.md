@@ -2,7 +2,9 @@
 
 [blue-green]: https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
 [blue-green_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Tesla-Sec&repo=github-readme-stats&cache_seconds=86400&theme=blue-green
-![blue-green][blue-green] ![blue-green][blue-green_repo]
+| | | |
+| :--: | :--: | :--: |
+|![blue-green][blue-green]||![blue-green][blue-green_repo]|
 
 <div style="display: inline_block">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
