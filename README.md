@@ -8,7 +8,10 @@
 |![blue-green][blue-green]|![blue-green][blue-green_repo]|
 
 
-#⚒️My favorite tools
+##⚒️My favorite tools
+![HackHackerGIF (2)](https://github.com/user-attachments/assets/59d15d94-ba27-4128-be68-eb7a497baa2a)
+![HackHackerGIF](https://github.com/user-attachments/assets/9816e7bb-8f3c-4f20-bf2e-68eb59678825)
+
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://blackarch.org/images/logo/ba-logo.png">
   <img align="center" height="30" width="40" src="https://www.kali.org/images/kali-logo.svg">
