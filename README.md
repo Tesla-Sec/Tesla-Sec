@@ -1,14 +1,11 @@
 ## Hi there 👋
 
 [blue-green]: https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
-[blue-green_repo]: https://github.com/anuraghazra/github-readme-stats
+[blue-green_repo]: https://github.com/Tesla-Sec/github-readme-stats
 
 | `📈My Stats`|| 
 | :--: | :--: |
 |![blue-green][blue-green] ![blue-green][blue-green_repo]|![CatMemeCatsLoveGIF](https://github.com/user-attachments/assets/6b0932f8-6cea-4a0b-a8df-44045118943e)|
-
-
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Tesla-Sec&show_icons=true&locale=en" />
 
 
 
