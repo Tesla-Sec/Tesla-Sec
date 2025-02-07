@@ -5,7 +5,8 @@
 
 | `📈My Stats`|| 
 | :--: | :--: |
-|![blue-green][blue-green] ![blue-green_repo] | ![CatMemeCatsLoveGIF](https://github.com/user-attachments/assets/6b0932f8-6cea-4a0b-a8df-44045118943e)|
+|![blue-green][blue-green] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ | ![CatMemeCatsLoveGIF](https://github.com/user-attachments/assets/6b0932f8-6cea-4a0b-a8df-44045118943e)|
 
 
 
