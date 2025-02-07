@@ -41,5 +41,7 @@
   <a href="https://www.linkedin.com/in/nicolas-herculano" target="_blank"><img src="https://images.ctfassets.net/h6ufgtwb6nv1/5lHIgLTzfLWN0rHbv4SlVZ/f6463b137d7b1c156c641b090393e04b/LinkedIn_logo_initials.png" height="30" target="_blank"></a> 
   
 </div>
+
 ![HackermanGIF](https://github.com/user-attachments/assets/f835f6b6-6467-4c94-b948-e73bdfdc3419)
+
 ##Thanks!!!
